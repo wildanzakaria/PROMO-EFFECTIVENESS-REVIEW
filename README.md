@@ -43,7 +43,7 @@ Query untuk membuat table ini dengan menghubungkan shipping_table dengan seller_
 Query :<br>
   ![](https://github.com/wildanzakaria/PROMO-EFFECTIVENESS-REVIEW/blob/main/gambar/9.png) <br>
 2.	Export dan save hasil table.<br>
-Link table : shipping_summary<br>
+Link table : https://github.com/wildanzakaria/PROMO-EFFECTIVENESS-REVIEW/blob/main/Data%20Result/shipping_summary.csv <br>
 3.	Selanjutnya buat label di Microsoft word dengan layout 2 Across dan 5 Down serta format buyer_name, buyer_address, buyer_city, buyer_zipcode, dan kode resi.<br>
 Result label_shipping:<br>
  ![](https://github.com/wildanzakaria/PROMO-EFFECTIVENESS-REVIEW/blob/main/gambar/10.png) <br>
