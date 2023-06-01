@@ -15,13 +15,13 @@ Untuk menjawab pertanyaan 1 sampai 3.<br>
 ![](https://github.com/wildanzakaria/PROMO-EFFECTIVENESS-REVIEW/raw/main/gambar/1.png) <br>
 4.	Setelah semua data terimport, kita buat table Q3_Q4_Review menggunakan 'CTE' dan 'INSERT with SELECT STATEMENT'. Table Q3_Q4_Review berisi kolom purchase_date, total_price, promo_code, discount, sales_after_promo. Total price didapatkan dari mengalikan quantity dari sales_tabel dengan price dari marketplace_table. sales_after_promo didapatkan dari mengalikan quantity dari sales_tabel dengan price dari marketplace_table lalu dengan mengurangi kolom discount yang didapatkan dari price_deduction pada table promo_code.  Agar kolom discount dan promo_code tidak menghasilkan null, ubah null menggunakan CASE STATEMENT. <br>
 Untuk querynya dapat dilihat dari gambar dibawah ini. <br>
-![Screenshot](https://github.com/wildanzakaria/PROMO-EFFECTIVENESS-REVIEW/raw/main/gambar/2.png) <br>
+![](https://github.com/wildanzakaria/PROMO-EFFECTIVENESS-REVIEW/raw/main/gambar/2.png) <br>
 4.	Selanjutnya export table Q3_Q4_Review untuk membuat summary dan visualisasi di Microsoft Excel. <br>
 Result table Q3_Q4_Review :<br>
- ![Screenshot](https://github.com/wildanzakaria/PROMO-EFFECTIVENESS-REVIEW/raw/main/gambar/3.png) <br>
+ ![](https://github.com/wildanzakaria/PROMO-EFFECTIVENESS-REVIEW/raw/main/gambar/3.png) <br>
 Jika ingin membuat ratio antara pengguna yang memakai kode promo dan tidak memakai kode promo. Kita tambahkan kolom ratio pada tabel Q3_Q4_Review dengan menggunakan CASE STATEMENT.<br>
 Query : <br>
- ![Screenshot](https://github.com/wildanzakaria/PROMO-EFFECTIVENESS-REVIEW/raw/main/gambar/4.png) <br>
+ ![](https://github.com/wildanzakaria/PROMO-EFFECTIVENESS-REVIEW/raw/main/gambar/4.png) <br>
 Result :<br>
  ![](https://github.com/wildanzakaria/PROMO-EFFECTIVENESS-REVIEW/blob/main/gambar/5.png) <br>
 Visualisasi data menggunakan Microsoft Excel:<br>
