@@ -1,7 +1,7 @@
 # PROMO-EFFECTIVENESS-REVIEW
 ## Jubelio x Rakamin Academy
 <br>
-CASE <br>
+CASE :<br>
 Setiap 6 Bulan sekali (Akhir Semester) Omnichannel Jubelio mengadakan Promo Effectiveness Review, untuk melihat efektivitas dari PROMO CODE terhadap total penjualan dari salah satu marketplace. <br>
 Sebagai reporting engineer ada beberapa Task yang perlu anda lakukan. <br>
 1.	Mengaplikasikan Promo Code dari Tim Budgeting. <br>
