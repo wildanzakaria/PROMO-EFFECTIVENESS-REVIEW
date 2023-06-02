@@ -1,7 +1,7 @@
 # PROMO-EFFECTIVENESS-REVIEW
 ## Jubelio x Rakamin Academy
 <br>
-## CASE :<br>
+CASE :<br>
 Setiap 6 Bulan sekali (Akhir Semester) Omnichannel Jubelio mengadakan Promo Effectiveness Review, untuk melihat efektivitas dari PROMO CODE terhadap total penjualan dari salah satu marketplace. <br>
 Sebagai reporting engineer ada beberapa Task yang perlu anda lakukan. <br>
 1.	Mengaplikasikan Promo Code dari Tim Budgeting. <br>
@@ -43,7 +43,7 @@ Rekomendasi :<br>
 •	Memberikan pengingat notifikasi pada setiap pengguna untuk belanja menggunakan kode_promo.<br>
 •	Membuat campaign atau bekerja sama dengan KOL specialist dan influencer untuk mengajak belanja dengan menggunakan kode promo.<br>
 <br>
-## Untuk membuat shipping label selama bulan desember: <br>
+Untuk membuat shipping label selama bulan desember: <br>
 1.	Buat table shipping_summary yang terjadi di bulan desember didatabase yang sama menggunakan 'INSERT with SELECT STATEMENT'. Table berisi kolom shipping_date, seller_name, buyer_name, buyer_address, buyer_city, buyer_zipcode dan kode resi. <br>
 Noted : <br>
 Kode resi didapatkan dengan menggabungkan kolom shipping_id - purchase_date - shipping_date (“YYYYMMDD”) - buyer_id - seller_id).<br>
