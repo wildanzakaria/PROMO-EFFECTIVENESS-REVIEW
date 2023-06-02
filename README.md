@@ -47,7 +47,7 @@ Untuk membuat shipping label selama bulan desember: <br>
 1.	Buat table shipping_summary yang terjadi di bulan desember didatabase yang sama menggunakan 'INSERT with SELECT STATEMENT'. Table berisi kolom shipping_date, seller_name, buyer_name, buyer_address, buyer_city, buyer_zipcode dan kode resi. <br>
 Noted : <br>
 Kode resi didapatkan dengan menggabungkan kolom shipping_id - purchase_date - shipping_date (“YYYYMMDD”) - buyer_id - seller_id).<br>
-###Menghubungkan shipping_table dengan seller_table dan buyer_table.<br>
+Menghubungkan shipping_table dengan seller_table dan buyer_table.<br>
 Query :<br>
 ![](https://github.com/wildanzakaria/PROMO-EFFECTIVENESS-REVIEW/blob/main/gambar/9.png) <br>
 2.	Export dan save hasil table.<br>
